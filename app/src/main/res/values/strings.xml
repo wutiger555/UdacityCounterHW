@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">跆拳道計分器</string>
+    <string name="a">選手A</string>
+    <string name="b">選手B</string>
+</resources>
